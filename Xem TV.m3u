@@ -1,3 +1,3 @@
 #EXTINF:0, VTV1
 #EXTVLCOPT:network-caching=1000
-https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/vtv1-480p/hdntl=exp=1670807698~acl=%2f*~data=hdntl~hmac=51e738f9a543b53b32f718fcf74d3c250eeaff0ed3250887b37abd1a57c6009e/chunklist.m3u8
+http://171.232.83.41:8080/sv2plusr/vips-live/hda1/vtv1hd_hls.smil/chunklist_b1800000.m3u8?token=iWVjILkPCCK6CSN_Yvm_VQ&e=1670733871
