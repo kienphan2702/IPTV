@@ -2,43 +2,43 @@
 #EXTINF:0,ThevangTV Link 1
 https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG32/chunklist.m3u8
 
-#EXTINF:0,PL: Eleven Sports 1 HD
+#EXTINF:0 group-title="Elenven Sports",PL: Eleven Sports 1 HD
 #EXTVLCOPT:network-caching=1000
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/2560
-#EXTINF:0,PL: Eleven Sports 2 HD
+#EXTINF:0 group-title="Elenven Sports",PL: Eleven Sports 2 HD
 #EXTVLCOPT:network-caching=1000
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/2561
-#EXTINF:0,PL: Eleven Sports 3 HD
+#EXTINF:0 group-title="Elenven Sports",PL: Eleven Sports 3 HD
 #EXTVLCOPT:network-caching=1000
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12739
-#EXTINF:0,PL: Eleven Sports 4 HD
+#EXTINF:0 group-title="Elenven Sports",PL: Eleven Sports 4 HD
 #EXTVLCOPT:network-caching=1000
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12740
 
-#EXTINF:0,Now Sports 4K 1
+#EXTINF:0 group-title="Now Sports",Now Sports 4K 1
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425322
-#EXTINF:0,Now Premier Sports 1
+#EXTINF:0 group-title="Now Sports",Now Premier Sports 1
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425332
-#EXTINF:0,Now Premier Sports 2
+#EXTINF:0 group-title="Now Sports",Now Premier Sports 2
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425333
-#EXTINF:0,Now Premier Sports 3
+#EXTINF:0 group-title="Now Sports",Now Premier Sports 3
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425334
-#EXTINF:0,Now Premier Sports 4
+#EXTINF:0 group-title="Now Sports",Now Premier Sports 4
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425335
-#EXTINF:0,Now Premier Sports 5
+#EXTINF:0 group-title="Now Sports",Now Premier Sports 5
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425336
-#EXTINF:0,Now Premier Sports 6
+#EXTINF:0 group-title="Now Sports",Now Premier Sports 6
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425337
-#EXTINF:0,Now Premier Sports 7
+#EXTINF:0 group-title="Now Sports",Now Premier Sports 7
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425331
-#EXTINF:0,Now Premier Sports 8
+#EXTINF:0 group-title="Now Sports",Now Premier Sports 8
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425330
