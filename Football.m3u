@@ -79,3 +79,28 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376372
 #EXTINF:0 group-title="Optus Sport",Optus Sport 12
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376373
+
+#EXTINF:0 group-title="TRUE PREMIER FOOTBALL",TRUE PREMIER FOOTBALL 1
+#EXTVLCOPT:network-caching=1000
+http://superonetv.ml:2095/play/live.php?mac=00:1A:79:93:14:A2&stream=115759&extension=ts&play_token=vQqqCOvtjV
+#EXTINF:0 group-title="TRUE PREMIER FOOTBALL",TRUE PREMIER FOOTBALL 2
+#EXTVLCOPT:network-caching=1000
+http://driptvs.com:8080/JHNzfsy1qN/tn6jVf1qW2/173629?play_token=n0bfPLmt4O
+#EXTINF:0 group-title="TRUE PREMIER FOOTBALL",TRUE PREMIER FOOTBALL 3
+#EXTVLCOPT:network-caching=1000
+https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8
+#EXTINF:0 group-title="TRUE PREMIER FOOTBALL",TRUE PREMIER FOOTBALL 4
+#EXTVLCOPT:network-caching=1000
+ttps://cdn.googlecdnforstreaming.live/dbf789/epl4/chunks.m3u8
+#EXTINF:0 group-title="TRUE PREMIER FOOTBALL",TRUE PREMIER FOOTBALL 5
+#EXTVLCOPT:network-caching=1000
+https://cdn.googlecdnforstreaming.live/dbf789/epl5/chunks.m3u8
+#EXTINF:0 group-title="TRUE PREMIER FOOTBALL",TRUE SPORTS 1
+#EXTVLCOPT:network-caching=1000
+https://sport.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0 group-title="TRUE PREMIER FOOTBALL",TRUE SPORTS 2
+#EXTVLCOPT:network-caching=1000
+https://cdn.googlecdnforstreaming.live/dbf789/tsp2/chunks.m3u8
+#EXTINF:0 group-title="TRUE PREMIER FOOTBALL",TRUE SPORTS 5
+#EXTVLCOPT:network-caching=1000
+https://cdn.googlecdnforstreaming.live/dbf789/tsp5/chunks.m3u8
