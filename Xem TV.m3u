@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:0,VTV1
-http://171.232.83.41:8080/sv2plusr/vips-live/hda1/vtv1hd_hls.smil/chunklist_b1800000.m3u8?token=iWVjILkPCCK6CSN_Yvm_VQ&e=1670733871
+http://171.232.83.41:8080/sv2plusr/vips-live/hda1/vtv1hd_hls.smil/chunklist_b1200000.m3u8
