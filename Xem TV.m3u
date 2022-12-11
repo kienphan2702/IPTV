@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/VTV1_2013.png",VTV1
-http://115.73.176.223:8080/sv2plusr/vips-live/hda1/vtv1hd_hls.smil/chunklist_b1800000.m3u8?token=jRS2Zmex3f7wTtBQRnfHoQ&e=1670734278
+http://115.76.177.228:8080/sv2plusr/vips-live/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8?token=wZZvsTImJn_zHSOE_zqPwg&e=1670766854
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Dai-truyen-hinh-vtv2.png",VTV2
 https://vtv-live-push-token.akamaized.net/hls/live/2029308/vtv2/vtv2-360p/hdntl=exp=1670810847~acl=%2f*~data=hdntl~hmac=6bcd4d9a8655e7a946704523d2732ffb4c89ded1e78cfb5abc1b4d44b6ed698d/chunklist.m3u8
