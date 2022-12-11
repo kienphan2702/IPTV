@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/VTV1_2013.png",VTV1
+#EXTINF:0 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/VTV1_2013.png",VTV1
 http://115.73.238.182:8080/sv2plusr/vips-live/hda1/vtv1hd_hls.smil/chunklist_b1800000.m3u8?token=bmC1t4y8ugugc9v6E30Tog&e=1670808992
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Dai-truyen-hinh-vtv2.png",VTV2
+#EXTINF:0 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Dai-truyen-hinh-vtv2.png",VTV2
 https://vtv-live-push-token.akamaized.net/hls/live/2029314/vtv6/vtv6-480p/hdntl=exp=1670843408~acl=%2f*~data=hdntl~hmac=ee12554bbf016b46e98fa34483f403ce2e757ff1be81004fd20ffc712b7d6d67/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Truyen-hinh-vtv3.png",VTV3
+#EXTINF:0 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Truyen-hinh-vtv3.png",VTV3
 https://vtsstr7.tv24.vn/live/VTV3_HD_new.smil/chunklist_w541168484_b1692000.m3u8?uid=13345444s2e5r4j5p4z5&mytokenstarttime=1670724344&cid=137
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",VTV4
+#EXTINF:0 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",VTV4
 http://115.73.238.182:8080/sv2plusr/vips-live/hda1/vtv4_vhls.smil/chunklist_b2500000.m3u8?token=vP-xek67Y0oXWVUrDciTzA&e=1670735530
