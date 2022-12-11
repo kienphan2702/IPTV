@@ -1,3 +1,16 @@
 #EXTM3U
-#EXTINF:0, VeboTV Link 1
+#EXTINF:0,VeboTV Link 1
 https://xem5.vebo3.org/embed?link=https%3A%2F%2F179672673.global.cdnfastest.com%2Flive%2Fmay1FHD%2Fplaylist.m3u8
+
+#EXTINF:0,PL: Eleven Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/2560
+#EXTINF:0,PL: Eleven Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/2561
+#EXTINF:0,PL: Eleven Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12739
+#EXTINF:0,PL: Eleven Sports 4 HD
+#EXTVLCOPT:network-caching=1000
+http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12740
