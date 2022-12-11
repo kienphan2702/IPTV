@@ -243,30 +243,41 @@ http://venomtt.com:8000/kdcxxD1U/543545/176188
 #EXTVLCOPT:network-caching=1000
 http://venomtt.com:8000/kdcxxD1U/543545/176194
 
-#EXTINF:0 group-title="BT Sports",BT Sports 1 FHD UK
+#EXTINF:-1 group-title="BT Sports",BT Sports 1 FHD UK
 #EXTVLCOPT:network-caching=1000
 http://op.web24.live:8080/Xstreamemby/6skyODsSmM/6313
-#EXTINF:0 group-title="BT Sports",BT Sports 2 FHD UK
+#EXTINF:-1 group-title="BT Sports",BT Sports 2 FHD UK
 #EXTVLCOPT:network-caching=1000
 http://op.web24.live:8080/Xstreamemby/6skyODsSmM/6314
-#EXTINF:0 group-title="BT Sports",BT Sports 3 FHD UK
+#EXTINF:-1 group-title="BT Sports",BT Sports 3 FHD UK
 #EXTVLCOPT:network-caching=1000
 http://op.web24.live:8080/Xstreamemby/6skyODsSmM/6315
-#EXTINF:0 group-title="BT Sports",BT Sports 4 FHD UK
+#EXTINF:-1 group-title="BT Sports",BT Sports 4 FHD UK
 #EXTVLCOPT:network-caching=1000
 http://op.web24.live:8080/Xstreamemby/6skyODsSmM/6316
-#EXTINF:0 group-title="BT Sports",BT Sports 5 UK
+#EXTINF:-1 group-title="BT Sports",BT Sports 5 UK
 #EXTVLCOPT:network-caching=1000
 http://superbits.tv:2095/kpxBt1766A/f4Hjy1kK/9813
-#EXTINF:0 group-title="BT Sports",BT Sports 6 UK
+#EXTINF:-1 group-title="BT Sports",BT Sports 6 UK
 #EXTVLCOPT:network-caching=1000
 http://superbits.tv:2095/kpxBt1766A/f4Hjy1kK/9814
-#EXTINF:0 group-title="BT Sports",BT Sports 7 UK
+#EXTINF:-1 group-title="BT Sports",BT Sports 7 UK
 #EXTVLCOPT:network-caching=1000
 http://superbits.tv:2095/kpxBt1766A/f4Hjy1kK/9815
-#EXTINF:0 group-title="BT Sports",BT Sports 8 UK
+#EXTINF:-1 group-title="BT Sports",BT Sports 8 UK
 #EXTVLCOPT:network-caching=1000
 http://superbits.tv:2095/kpxBt1766A/f4Hjy1kK/9816
-#EXTINF:0 group-title="BT Sports",BT Sports 9 UK
+#EXTINF:-1 group-title="BT Sports",BT Sports 9 UK
 #EXTVLCOPT:network-caching=1000
 http://superbits.tv:2095/kpxBt1766A/f4Hjy1kK/9817
+
+#EXTINF:-1 group-title="Sky Sport",Sky Sport Premier League
+http://op.web24.live:8080/Xstreamemby/6skyODsSmM/1319
+#EXTINF:-1 group-title="Sky Sport",Sky Sport Main Event
+http://op.web24.live:8080/Xstreamemby/6skyODsSmM/1327
+#EXTINF:-1 group-title="Sky Sport",Sky Sport Football 
+http://op.web24.live:8080/Xstreamemby/6skyODsSmM/1331
+#EXTINF:-1 group-title="Sky Sport",Sky Sport F1
+http://op.web24.live:8080/Xstreamemby/6skyODsSmM/1334
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Premier League FHD" tvg-logo="https://iptvlogo.com/newpicon/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="Sky Sport",Sky Sport Premier League FHD
+http://destiny4k.com:2086/live/YttdBgP0g7/yf1xGxWvXCbQ1TuMdfKP/83187.ts
