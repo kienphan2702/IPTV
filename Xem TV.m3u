@@ -8,5 +8,5 @@ https://vtv-live-push-token.akamaized.net/hls/live/2029308/vtv2/vtv2-360p/hdntl=
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Truyen-hinh-vtv3.png",VTV3
 https://vtsstr7.tv24.vn/live/VTV3_HD_new.smil/chunklist_w541168484_b1692000.m3u8?uid=13345444s2e5r4j5p4z5&mytokenstarttime=1670724344&cid=137
 
-#EXTINF:0,VTV4
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",VTV4
 http://115.73.238.182:8080/sv2plusr/vips-live/hda1/vtv4_vhls.smil/chunklist_b2500000.m3u8?token=vP-xek67Y0oXWVUrDciTzA&e=1670735530
