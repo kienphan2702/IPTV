@@ -104,3 +104,161 @@ https://cdn.googlecdnforstreaming.live/dbf789/tsp2/chunks.m3u8
 #EXTINF:0 group-title="TRUE PREMIER FOOTBALL",TRUE SPORTS 5
 #EXTVLCOPT:network-caching=1000
 https://cdn.googlecdnforstreaming.live/dbf789/tsp5/chunks.m3u8
+
+#EXTINF:0 group-title="BEIN SPORT",BEIN SPORT 1
+#EXTVLCOPT:network-caching=1000
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/544
+#EXTINF:0 group-title="BEIN SPORT",BEIN SPORT 2
+#EXTVLCOPT:network-caching=1000
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/543
+#EXTINF:0 group-title="BEIN SPORT", tvg-id="" tvg-name"BEIN SPORT 3" tvg-logo="" group-title="TH#EXTVLCOPT:network-caching=1000
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/542
+#EXTINF:0 group-title="BEIN SPORT", tvg-id="" tvg-name"BEIN SPORT MAX 4" tvg-logo="" group-title="TH#EXTVLCOPT:network-caching=1000
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3187
+#EXTINF:0 group-title="BEIN SPORT", tvg-id="" tvg-name"BEIN SPORT MAX 5" tvg-logo="" group-title="TH#EXTVLCOPT:network-caching=1000
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3186
+#EXTINF:0 group-title="BEIN SPORT", tvg-id="" tvg-name"BEIN SPORT MAX 6" tvg-logo="" group-title="TH#EXTVLCOPT:network-caching=1000
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3185
+#EXTINF:0 group-title="BEIN SPORT", tvg-id="" tvg-name"BEIN SPORT MAX 7" tvg-logo="" group-title="TH#EXTVLCOPT:network-caching=1000
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3184
+#EXTINF:0 group-title="BEIN SPORT", tvg-id="" tvg-name"BEIN SPORT MAX 8" tvg-logo="" group-title="TH#EXTVLCOPT:network-caching=1000
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3183
+#EXTINF:0 group-title="BEIN SPORT", tvg-id="" tvg-name"BEIN SPORT MAX 9" tvg-logo="" group-title="TH#EXTVLCOPT:network-caching=1000
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3182
+#EXTINF:0 group-title="BEIN SPORT", tvg-id="" tvg-name"BEIN SPORT MAX 10" tvg-logo="" group-title="TH#EXTVLCOPT:network-caching=1000
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3181
+#EXTINF:0 group-title="BEIN SPORT", tvg-id="" tvg-name"EUROSPORT 1" tvg-logo="" group-title="TH#EXTVLCOPT:network-caching=1000
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/536
+#EXTINF:0 group-title="BEIN SPORT", tvg-id="" tvg-name"EUROSPORT 2" tvg-logo="" group-title="TH#EXTVLCOPT:network-caching=1000
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/537
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 01 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156463
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 01 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156462
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 01 PREMIUM FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156469
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 01 PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156468
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 02 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156461
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 02 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156460
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 02 PREMIUM FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156467
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 02 PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156466
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 03 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156459
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 03 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156458
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 03 PREMIUM FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156465
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 03 PREMIUM HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156464
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 04 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156457
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 04 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156456
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 05 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156455
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 05 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156454
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 06 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156453
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 06 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156452
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 07 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156451
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS 07 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156450
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/156428
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS XTRA 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/161968
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS XTRA 1 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/161970
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS XTRA 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/161967
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS XTRA 2 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/161969
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 1 4k
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176187
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176193
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX  1 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176199
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 2 4K
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176186
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 2 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176198
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 3 4K
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176185
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176191
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 3 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176197
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 4 4K
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176184
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176190
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 4 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176196
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 4 LDC HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/190949
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 5 4k
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176183
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 5 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176189
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 5 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176195
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 5 LDC HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/190948
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 6 4k
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176182
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 6 FHD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176188
+#EXTINF:0 group-title="BEIN SPORT",beIN SPORTS MAX 6 HD
+#EXTVLCOPT:network-caching=1000
+http://venomtt.com:8000/kdcxxD1U/543545/176194
