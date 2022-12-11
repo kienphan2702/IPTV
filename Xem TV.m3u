@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,VTV1
+#EXTINF:0 tvg-logo="https://i.imgur.com/R7q7HZj.png", VTV1
 http://115.73.176.223:8080/sv2plusr/vips-live/hda1/vtv1hd_hls.smil/chunklist_b1800000.m3u8?token=jRS2Zmex3f7wTtBQRnfHoQ&e=1670734278
 
 #EXTINF:0,VTV2
