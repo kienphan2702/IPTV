@@ -14,5 +14,5 @@ http://115.73.238.182:8080/sv2plusr/vips-live/hda1/vtv4_vhls.smil/chunklist_b250
 #EXTINF:0 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logov5.png",VTV5
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1930464826?profile=pass
 
-#EXTINF:0 group-title="VTV" tvg-logo="https://vi.wikipedia.org/wiki/VTV_C%E1%BA%A7n_Th%C6%A1#/media/T%E1%BA%ADp_tin:Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV Cần Thơ
+#EXTINF:0 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV Cần Thơ
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
