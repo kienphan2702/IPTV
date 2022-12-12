@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,VeboTV Link 1
+#EXTINF:0 group-title="VeboTV, RakhoiTV",VeboTV Link 1
 https://xem5.vebo3.org/embed?link=https%3A%2F%2F179672673.global.cdnfastest.com%2Flive%2Fmay1FHD%2Fplaylist.m3u8
 
 #EXTINF:0 group-title="Elenven Sports",PL: Eleven Sports 1 HD
