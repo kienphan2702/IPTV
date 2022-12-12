@@ -10,3 +10,9 @@ https://vtsstr7.tv24.vn/live/VTV3_HD_new.smil/chunklist_w541168484_b1692000.m3u8
 
 #EXTINF:0 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",VTV4
 http://115.73.238.182:8080/sv2plusr/vips-live/hda1/vtv4_vhls.smil/chunklist_b2500000.m3u8?token=vP-xek67Y0oXWVUrDciTzA&e=1670735530
+
+#EXTINF:0 group-title="VTV" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/9/90/Logov5.png",VTV5
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1930464826?profile=pass
+
+#EXTINF:0 group-title="VTV" tvg-logo="https://vi.wikipedia.org/wiki/VTV_C%E1%BA%A7n_Th%C6%A1#/media/T%E1%BA%ADp_tin:Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV Cần Thơ
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
