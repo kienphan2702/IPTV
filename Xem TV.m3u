@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 
 #EXTINF:0 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/VTV1_2013.png",VTV1
-https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:0 group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Dai-truyen-hinh-vtv2.png",VTV2
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/184155509?profile=pass
