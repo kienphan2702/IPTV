@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hồ Chí Minh FM 91.0MHz
+#EXTINF:0 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hồ Chí Minh
 #EXTVLCOPT:network-caching=1000
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w252968487.m3u8
 #EXTINF:0 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/247.png", VOH FM 99.9MHz
