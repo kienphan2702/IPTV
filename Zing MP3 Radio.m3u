@@ -1,17 +1,17 @@
 #EXTM3U 
-#EXTINF: 25 group-title="Ungrouped", Zing MP3 - On Air
+#EXTINF: 25 group-title="Zing Radio", Zing MP3 - On Air
 https://multi-playlist-zmp3.zadn.vn/9tPzLPYORS8/zhls/playback-realtime/a07d79b945fcaca2f5ed/index.m3u8
-#EXTINF: 25 group-title="Ungrouped", Zing MP3 - Chạm
+#EXTINF: 25 group-title="Zing Radio", Zing MP3 - Chạm
 https://multi-playlist-zmp3.zadn.vn/62YE6lXdY4w/zhls/playback-realtime/db68d4afe8ea01b458fb/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", Zing MP3 - Vpop
+#EXTINF: -1 group-title="Zing Radio", Zing MP3 - V-Pop
 https://multi-playlist-zmp3.zadn.vn/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", Zing MP3 - Acoustic
+#EXTINF: -1 group-title="Zing Radio", Zing MP3 - Acoustic
 https://multi-playlist-zmp3.zadn.vn/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", Zing MP3 - Bolero
+#EXTINF: -1 group-title="Zing Radio", Zing MP3 - Bolero
 https://multi-playlist-zmp3.zadn.vn/BtRvAOtW5jk/zhls/playback-realtime/e3b9f87ec43b2d65742a/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", Zing MP3 - Rap Việt
+#EXTINF: -1 group-title="Zing Radio", Zing MP3 - Rap Việt
 https://multi-playlist-zmp3.zadn.vn/Itsn5VCb5Uo/zhls/playback-realtime/4f2980eebcab55f50cba/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", Zing MP3 - Kpop
+#EXTINF: -1 group-title="Zing Radio", Zing MP3 - K-Pop
 https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", Zing MP3 - USUK
+#EXTINF: -1 group-title="Zing Radio", Zing MP3 - US-UK
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
