@@ -2,22 +2,20 @@
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png",VTV1 HD
 http://gg.gg/vtv1ptk
-
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png",VTV2 HD
 http://gg.gg/vtv2ptk
-
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png",VTV3 HD
 http://gg.gg/vtv3ptk
-
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png",VTV4 HD
 http://gg.gg/vtv4ptk
-
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png",VTV5 HD
 http://gg.gg/vtv5ptk
-
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png",VTV Cần Thơ
 http://gg.gg/vtvcanthoptk
 #http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="VTC" tvg-logo="http://tv.tvhayhd.com/uploads/tv_image/vtc2.png",VTC2
+http://115.76.177.228:8080/sv2plusr/live/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8?token=HczlD5cOKw2gIJGYqybasQ&e=1670909514
 
 #EXTINF:-1 group-title="Other" tvg-logo="http://tv.tvhayhd.com/uploads/tv_image/cartoon-network.png",Cartoon Network
 http://115.76.177.228:8080/sv2plusr/live/hda3/cartoonnetworkhd_hls.smil/chunklist_b1800000.m3u8?token=RU7tKhhiUPvD1Lh2Zo-YLw&e=1670909315
