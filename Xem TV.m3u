@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png",VTV1 HD
-https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b1200000.m3u8
+https://s1-fpt-cdn.sohatv.vn/live/SWFYEZzBG7clIMM9/vtv-live/JnTu3cwriGGFMFAv/337a54767a7233703637564336316a6d919a8e3b5d19e58ffb9aa75a2d431b0ab2c24cff476b07d81d8d35fca73b09497b9918c825b3283f4c85168786ab0f1b5eccf21fd3bb16282c925d317bb96505545418aa211517b4809e8c29d210ca279bbcbd8a607d6a6e31c7fafecb1fa809d54eef5c9cd2582437135e564c423819a7099d498dbc81ff1283c5d156153c3989d1356df228d29c33f601a8230bf20f4b2d2277c6a16dcced68a430c0c028de469fbcafcb184575104f1da47168847a27ed4e0dccdad883be8752548e8fe286a1c72fbd395976e1c45f5b5eee66f3400c734f9d5fff241fb1ae0e45358e1729997f93ffb28321d96e078421d91a542c35a38a119713b9bf3a8bf83e82a5dea4/480.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png",VTV2 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/184155509?profile=pass
