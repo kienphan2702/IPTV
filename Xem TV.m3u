@@ -18,3 +18,6 @@ http://gg.gg/vtv5ptk
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png",VTV Cần Thơ
 http://gg.gg/vtvcanthoptk
 #http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="Other" tvg-logo="http://tv.tvhayhd.com/uploads/tv_image/cartoon-network.png",Cartoon Network
+http://115.76.177.228:8080/sv2plusr/live/hda3/cartoonnetworkhd_hls.smil/chunklist_b1800000.m3u8?token=RU7tKhhiUPvD1Lh2Zo-YLw&e=1670909315
