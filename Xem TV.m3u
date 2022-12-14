@@ -10,7 +10,7 @@ http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/184155509
 https://vtsstr7.tv24.vn/live/VTV3_HD_new.smil/chunklist_w541168484_b1692000.m3u8?uid=13345444s2e5r4j5p4z5&mytokenstarttime=1670724344&cid=137
 //#http://gg.gg/vtv3ptk
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png",VTV4 HD
-http://115.73.135.2:8080/sv2plusr/vips-live/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8?token=QKi5c-OyK4VCjxfX1F2q7g&e=1670994901
+udp://@225.1.2.20:30120
 //#http://gg.gg/vtv4ptk
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png",VTV5 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1930464826?profile=pass
@@ -25,4 +25,4 @@ http://115.76.177.228:8080/sv2plusr/live/sdb/vtc2_hls.smil/chunklist_b2500000.m3
 //#http://gg.gg/vtc2ptk
 
 #EXTINF:-1 group-title="Other" tvg-logo="http://tv.tvhayhd.com/uploads/tv_image/cartoon-network.png",Cartoon Network
-http://115.76.177.228:8080/sv2plusr/live/hda3/cartoonnetworkhd_hls.smil/chunklist_b1800000.m3u8?token=RU7tKhhiUPvD1Lh2Zo-YLw&e=1670909315
+http://115.76.177.228:8080/sv2plusr/live/hda3/cartoonnetworkhd_hls.smil/chunklist_b1800000.m3u8?token=bQruyqCiu9Gx99LI2jDzSQ&e=1670995582
