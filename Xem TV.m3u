@@ -1,28 +1,27 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png",VTV1 HD
-http://27.76.170.134:18080/154_1.m3u8?Range=417762989-417762990&SessionID=6bfb3417-bd98-43d5-9df5-152ce88b40ce
-//#http://gg.gg/vtv1ptk
+http://171.232.103.215:8080/sv2plusr/vips-live/hda1/vtv1hd_hls.smil/chunklist_b1800000.m3u8?token=hspSkixtk-WpiN8F1bSPjA&e=1671062136
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png",VTV2 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/184155509?profile=pass
-//#http://gg.gg/vtv2ptk
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png",VTV3 HD
 https://vtsstr7.tv24.vn/live/VTV3_HD_new.smil/chunklist_w541168484_b1692000.m3u8?uid=13345444s2e5r4j5p4z5&mytokenstarttime=1670724344&cid=137
-//#http://gg.gg/vtv3ptk
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png",VTV4 HD
 udp://@225.1.2.20:30120
-//#http://gg.gg/vtv4ptk
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png",VTV5 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1930464826?profile=pass
-//#http://gg.gg/vtv5ptk
+
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png",VTV Cần Thơ
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
-//#http://gg.gg/vtvcanthoptk
+//#http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="VTC" tvg-logo="http://tv.tvhayhd.com/uploads/tv_image/vtc2.png",VTC2
 http://115.76.177.228:8080/sv2plusr/live/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8?token=HczlD5cOKw2gIJGYqybasQ&e=1670909514
-//#http://gg.gg/vtc2ptk
+
 
 #EXTINF:-1 group-title="Other" tvg-logo="http://tv.tvhayhd.com/uploads/tv_image/cartoon-network.png",Cartoon Network
 http://115.76.177.228:8080/sv2plusr/live/hda3/cartoonnetworkhd_hls.smil/chunklist_b1800000.m3u8?token=bQruyqCiu9Gx99LI2jDzSQ&e=1670995582
