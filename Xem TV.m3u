@@ -1,26 +1,22 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD
-https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/WpQtg0z.png" tvg-id="e12ffaee54f59ab59f44a11d872574a3",VTV1 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1861890017?profile=pass
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png",VTV2 HD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/R7q7HZj.png" tvg-id="6592a9bec7b59a571f027bbc73699b6d",VTV2 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/184155509?profile=pass
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png",VTV3 HD
-https://vtsstr7.tv24.vn/live/VTV3_HD_new.smil/chunklist_w541168484_b1692000.m3u8?uid=13345444s2e5r4j5p4z5&mytokenstarttime=1670724344&cid=137
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/o6SxT3q.png" tvg-id="f1d586f11691fa622af6d232b02dc024",VTV3 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1904662001?profile=pass
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png",VTV4 HD
-udp://@225.1.2.20:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/4yhPtDf.png" tvg-id="9ed354e922c3adc3b007f81ea783b6d6",VTV4 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1767166878?profile=pass
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png",VTV5 HD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/VBErOd8.png" tvg-id="3a8e10f3ab031628e65d95fac283199d",VTV5 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1930464826?profile=pass
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png",VTV Cần Thơ
-//#http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
-http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
-
-#EXTINF:-1 group-title="VTC" tvg-logo="http://tv.tvhayhd.com/uploads/tv_image/vtc2.png",VTC2
-http://115.76.177.228:8080/sv2plusr/live/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8?token=HczlD5cOKw2gIJGYqybasQ&e=1670909514
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/GtnRg0D.png" tvg-id="57102efa5659c3f6fb7c3515f9b49890",VTV Cần Thơ
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
 
 
 #EXTINF:-1 group-title="Other" tvg-logo="http://tv.tvhayhd.com/uploads/tv_image/cartoon-network.png",Cartoon Network
