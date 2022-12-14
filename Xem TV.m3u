@@ -49,3 +49,36 @@ http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/199087629
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1295170758?profile=pass
 #EXTINF:-1 group-title="HTV/HTVC" tvg- logo="https://imgur.com/5vKANRg.png" tvg-id="68fdc6d1e72607129fc1b31538019bef",HTVC - VGS Shop
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1371995496?profile=pass
+
+
+#------------------------VTC------------------------#
+#EXTINF:-1 group-title="VTC" tvg- logo="http://i.imgur.com/ZqDrrHo.jpg" tvg-id="98c0c1fdaae6f0e72a953e9ef0a26f2c",VTC1 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2109849752?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="http://i.imgur.com/FDfA5TY.jpg" tvg-id="67b7303ed755d60e0da1ee5e01e6eafc",VTC10
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1043380071?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="http://i.imgur.com/lujGaHc.jpg" tvg-id="79464ef0c0f4cc97ed21e8673be7b5e5",VTC11 - kids TV
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1884178041?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="https://i.imgur.com/OHzugWa.jpg" tvg-id="2332cd6302c6cdb5dd893d3ef992c523",VTC12
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1674392099?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="http://i.imgur.com/6rdaU3o.jpg" tvg-id="8ba34ffa8d981f3f40504618090ff247",VTC13 - Ca nhạc HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2052039563?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="http://i.imgur.com/iWuzHtp.jpg" tvg-id="abe16ee8ec0422da4368f364fe422a65",VTC14
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1752097195?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="http://i.imgur.com/wxY4woR.jpg" tvg-id="690ae6d7d61887848fe31ed15ab0f414",VTC16
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1474693737?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="http://i.imgur.com/v8bMOPM.jpg" tvg-id="d5748266a5a704cb8982240d75415b75",VTC2
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1719825621?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="http://i.imgur.com/3mwlpko.jpg" tvg-id="cc0b2c554011893e49549963fcbf42e1",VTC3 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1428949964?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="https://imgur.com/VsjIiRT.png" tvg-id="7ed958c2af542de229706ae2dd24055b",VTC4 - yeah1Family HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1113119102?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="http://i.imgur.com/CcASwGj.jpg" tvg-id="24ca0287400fea31e815f50fe7e0b374",VTC5 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/117623332?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="http://i.imgur.com/GyuF8yw.jpg" tvg-id="62f20690aba237f5b8db9179fe613dde",VTC6
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/268890722?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="https://imgur.com/iMDjKF9.png" tvg-id="e7966159bb73c36fd14e9e461cbf041c",VTC7 - Today TV HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1499567847?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="http://i.imgur.com/N86J5sA.jpg" tvg-id="1190c9454c5aff7aaebad4d38c34c3de",VTC8
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1170837521?profile=pass
+#EXTINF:-1 group-title="VTC" tvg- logo="http://i.imgur.com/q6yNkQ5.jpg" tvg-id="05b34b926c9b5a46fcea61a0a97997d0",VTC9 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/306950917?profile=pass
