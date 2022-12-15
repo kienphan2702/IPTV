@@ -20,7 +20,7 @@ http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/193046482
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
 
 
-#------------------------HTV/HTVC------------------------#
+#------------------------HTV------------------------#
 #EXTINF:-1 group-title="HTV/HTVC" tvg- logo="https://cdn.hqth.me/logo/thumbs/53.png" tvg-id="7b25e6dd34244c96796c63a7e04dfcd4",HTV Thể thao
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1575363963?profile=pass
 #EXTINF:-1 group-title="HTV/HTVC" tvg- logo="https://cdn.hqth.me/logo/thumbs/47.png" tvg-id="71a8d6ca10964112365fe60d1d031a6a",HTV1
