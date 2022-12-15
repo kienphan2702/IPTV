@@ -21,50 +21,50 @@ http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975
 
 
 #------------------------HTV------------------------#
-#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/53.png" tvg-id="7b25e6dd34244c96796c63a7e04dfcd4",HTV Thể thao
+#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" tvg-id="7b25e6dd34244c96796c63a7e04dfcd4",HTV Thể thao
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1575363963?profile=pass
-#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/47.png" tvg-id="71a8d6ca10964112365fe60d1d031a6a",HTV1
+#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" tvg-id="71a8d6ca10964112365fe60d1d031a6a",HTV1
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1255581809?profile=pass
-#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/48.png" tvg-id="036818dac61304af20cfc28a031b6a14",HTV2
+#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png" tvg-id="036818dac61304af20cfc28a031b6a14",HTV2
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1511548931?profile=pass
-#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/49.png" tvg-id="7c8fe5e249e2d06218a48665ab98ef5c",HTV3
+#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png" tvg-id="7c8fe5e249e2d06218a48665ab98ef5c",HTV3
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1659211644?profile=pass
-#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/50.png" tvg-id="e4d6517712dfacca887c737d678551d2",HTV Key
+#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png" tvg-id="e4d6517712dfacca887c737d678551d2",HTV Key
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2001852132?profile=pass
-#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/51.png" tvg-id="1405ef07a597ea2dfb122d673e41d2aa",HTV7
+#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" tvg-id="1405ef07a597ea2dfb122d673e41d2aa",HTV7
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/133104916?profile=pass
-#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/52.png" tvg-id="c659a2a5a300b41f89df4aed82799450",HTV9
+#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png" tvg-id="c659a2a5a300b41f89df4aed82799450",HTV9
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/631396806?profile=pass
 
 
 #------------------------VTC------------------------#
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/32.png" tvg-id="98c0c1fdaae6f0e72a953e9ef0a26f2c",VTC1
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" tvg-id="98c0c1fdaae6f0e72a953e9ef0a26f2c",VTC1
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2109849752?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/33.png" tvg-id="d5748266a5a704cb8982240d75415b75",VTC2
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" tvg-id="d5748266a5a704cb8982240d75415b75",VTC2
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1719825621?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/34.png" tvg-id="cc0b2c554011893e49549963fcbf42e1",VTC3
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" tvg-id="cc0b2c554011893e49549963fcbf42e1",VTC3
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1428949964?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/35.png" tvg-id="7ed958c2af542de229706ae2dd24055b",VTC4
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" tvg-id="7ed958c2af542de229706ae2dd24055b",VTC4
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1113119102?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/36.png" tvg-id="24ca0287400fea31e815f50fe7e0b374",VTC5
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" tvg-id="24ca0287400fea31e815f50fe7e0b374",VTC5
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/117623332?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/37.png" tvg-id="62f20690aba237f5b8db9179fe613dde",VTC6
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" tvg-id="62f20690aba237f5b8db9179fe613dde",VTC6
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/268890722?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/38.png" tvg-id="e7966159bb73c36fd14e9e461cbf041c",VTC7
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" tvg-id="e7966159bb73c36fd14e9e461cbf041c",VTC7
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1499567847?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/39.png" tvg-id="1190c9454c5aff7aaebad4d38c34c3de",VTC8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" tvg-id="1190c9454c5aff7aaebad4d38c34c3de",VTC8
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1170837521?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/40.png" tvg-id="05b34b926c9b5a46fcea61a0a97997d0",VTC9
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" tvg-id="05b34b926c9b5a46fcea61a0a97997d0",VTC9
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/306950917?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/41.png" tvg-id="67b7303ed755d60e0da1ee5e01e6eafc",VTC10
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" tvg-id="67b7303ed755d60e0da1ee5e01e6eafc",VTC10
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1043380071?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/42.png" tvg-id="79464ef0c0f4cc97ed21e8673be7b5e5",VTC11
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" tvg-id="79464ef0c0f4cc97ed21e8673be7b5e5",VTC11
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1884178041?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/43.png" tvg-id="2332cd6302c6cdb5dd893d3ef992c523",VTC12
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png" tvg-id="2332cd6302c6cdb5dd893d3ef992c523",VTC12
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1674392099?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/44.png" tvg-id="8ba34ffa8d981f3f40504618090ff247",VTC13
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" tvg-id="8ba34ffa8d981f3f40504618090ff247",VTC13
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2052039563?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/45.png" tvg-id="abe16ee8ec0422da4368f364fe422a65",VTC14
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" tvg-id="abe16ee8ec0422da4368f364fe422a65",VTC14
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1752097195?profile=pass
-#EXTINF:-1 group-title="VTC" tvg- logo="https://cdn.hqth.me/logo/thumbs/46.png" tvg-id="690ae6d7d61887848fe31ed15ab0f414",VTC16
+#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" tvg-id="690ae6d7d61887848fe31ed15ab0f414",VTC16
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1474693737?profile=pass
