@@ -21,19 +21,19 @@ http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975
 
 
 #------------------------HTV------------------------#
-#EXTINF:-1 group-title="HTV/HTVC" tvg- logo="https://cdn.hqth.me/logo/thumbs/53.png" tvg-id="7b25e6dd34244c96796c63a7e04dfcd4",HTV Thể thao
+#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/53.png" tvg-id="7b25e6dd34244c96796c63a7e04dfcd4",HTV Thể thao
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1575363963?profile=pass
-#EXTINF:-1 group-title="HTV/HTVC" tvg- logo="https://cdn.hqth.me/logo/thumbs/47.png" tvg-id="71a8d6ca10964112365fe60d1d031a6a",HTV1
+#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/47.png" tvg-id="71a8d6ca10964112365fe60d1d031a6a",HTV1
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1255581809?profile=pass
-#EXTINF:-1 group-title="HTV/HTVC" tvg- logo="https://cdn.hqth.me/logo/thumbs/48.png" tvg-id="036818dac61304af20cfc28a031b6a14",HTV2
+#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/48.png" tvg-id="036818dac61304af20cfc28a031b6a14",HTV2
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1511548931?profile=pass
-#EXTINF:-1 group-title="HTV/HTVC" tvg- logo="https://cdn.hqth.me/logo/thumbs/49.png" tvg-id="7c8fe5e249e2d06218a48665ab98ef5c",HTV3
+#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/49.png" tvg-id="7c8fe5e249e2d06218a48665ab98ef5c",HTV3
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1659211644?profile=pass
-#EXTINF:-1 group-title="HTV/HTVC" tvg- logo="https://cdn.hqth.me/logo/thumbs/50.png" tvg-id="e4d6517712dfacca887c737d678551d2",HTV Key
+#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/50.png" tvg-id="e4d6517712dfacca887c737d678551d2",HTV Key
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2001852132?profile=pass
-#EXTINF:-1 group-title="HTV/HTVC" tvg- logo="https://cdn.hqth.me/logo/thumbs/51.png" tvg-id="1405ef07a597ea2dfb122d673e41d2aa",HTV7
+#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/51.png" tvg-id="1405ef07a597ea2dfb122d673e41d2aa",HTV7
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/133104916?profile=pass
-#EXTINF:-1 group-title="HTV/HTVC" tvg- logo="https://cdn.hqth.me/logo/thumbs/52.png" tvg-id="c659a2a5a300b41f89df4aed82799450",HTV9
+#EXTINF:-1 group-title="HTV" tvg- logo="https://cdn.hqth.me/logo/thumbs/52.png" tvg-id="c659a2a5a300b41f89df4aed82799450",HTV9
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/631396806?profile=pass
 
 
