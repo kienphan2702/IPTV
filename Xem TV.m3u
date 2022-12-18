@@ -68,3 +68,8 @@ http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/205203956
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1752097195?profile=pass
 #EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" tvg-id="690ae6d7d61887848fe31ed15ab0f414",VTC16
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1474693737?profile=pass
+
+
+#------------------------Others------------------------#
+#EXTINF:-1 group-title="Others" tvg-logo="http://i.imgur.com/m6IL1C7.jpg" tvg-id="413f7d31f0909b439f0701df04a0ecfa",Cartoon Nettwork HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/830291777?profile=pass
