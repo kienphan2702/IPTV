@@ -281,3 +281,6 @@ http://op.web24.live:8080/Xstreamemby/6skyODsSmM/1331
 http://op.web24.live:8080/Xstreamemby/6skyODsSmM/1334
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Premier League FHD" tvg-logo="https://iptvlogo.com/newpicon/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="Sky Sport",Sky Sport Premier League FHD
 http://destiny4k.com:2086/live/YttdBgP0g7/yf1xGxWvXCbQ1TuMdfKP/83187.ts
+
+#EXTINF:-1 group-title="Amazon Prime",Amazon Prime
+https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8
