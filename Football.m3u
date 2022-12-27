@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 group-title="VeboTV, RakhoiTV",VeboTV Link 1
-https://xem5.vebo3.org/embed?link=https%3A%2F%2F179672673.global.cdnfastest.com%2Flive%2Fmay1FHD%2Fplaylist.m3u8
+https://analytics.peer2.network/ping?stream_id=&user_id=player.4shares.live&swarm_id=L7xEgqe_%2Flive%2Fmay1FHD%2Fplaylist.m3u8&stream_url=https%3A%2F%2F179314182.global.cdnfastest.com%2Flive%2Fmay1FHD%2Fplaylist.m3u8&http_dowload_bitrate=0&p2p_download_bitrate=2024712&p2p_upload_bitrate=0&total_http_traffic=0&total_p2p_download_traffic=8415820&total_p2p_upload_traffic=0&percentage_traffic_over_http=0&percentage_traffic_over_p2p=100&href=https%3A%2F%2Fplayer.4shares.live%2Fembed.html%3Flink%3Dhttps%253A%252F%252F179314182.global.cdnfastest.com%252Flive%252Fmay1FHD%252Fplaylist.m3u8%26id%3DL7xEgqe%26theme_id%3Dvebotv&hostname=player.4shares.live&referrer=https%3A%2F%2Fxem2.vebo3.org%2F&time=1672174623134
 
 #EXTINF:0 group-title="Elenven Sports",PL: Eleven Sports 1 HD
 #EXTVLCOPT:network-caching=1000
