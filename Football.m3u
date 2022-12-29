@@ -15,18 +15,6 @@ https://179314182.global.cdnfastest.com/live/live/playlist.m3u8
 https://179314182.global.cdnfastest.com/live/oldFHD/playlist.m3u8
 
 
-#EXTINF:0 group-title="Elenven Sports",PL: Eleven Sports 1 HD
-#EXTVLCOPT:network-caching=1000
-http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/2560
-#EXTINF:0 group-title="Elenven Sports",PL: Eleven Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/2561
-#EXTINF:0 group-title="Elenven Sports",PL: Eleven Sports 3 HD
-#EXTVLCOPT:network-caching=1000
-http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12739
-#EXTINF:0 group-title="Elenven Sports",PL: Eleven Sports 4 HD
-#EXTVLCOPT:network-caching=1000
-http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12740
 
 #EXTINF:0 group-title="Now Sports",Now Sports 4K 1
 #EXTVLCOPT:network-caching=1000
