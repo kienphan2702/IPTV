@@ -1,4 +1,5 @@
 #EXTM3U
+#------------------------VeboTV------------------------#
 #EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD (Channel 1)
 https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8
 #EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD (Channel 1)
@@ -27,6 +28,8 @@ https://179314182.global.cdnfastest.com/live/nenFHD/chunklist.m3u8
 #EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV Backup
 https://179720687.global.cdnfastest.com/live/1-3755324-0/chunklist.m3u8
 
+
+#------------------------CakhiaTV------------------------#
 #EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/cakhiatv.png",CakhiaTV SD 1 (Channel 1)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/chunklist.m3u8
 #EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/cakhiatv.png",CakhiaTV SD 2 (Channel 1)
@@ -37,6 +40,9 @@ https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/chunklis
 https://179665839.global.cdnfastest.com/live/luhd2/chunklist.m3u8
 
 
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@phetsd1/chunklist.m3u8
+
+#------------------------Now Sports------------------------#
 #EXTINF:0 group-title="Now Sports",Now Sports 4K 1
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425322
@@ -65,6 +71,7 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425331
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425330
 
+#------------------------Optus Sport------------------------#
 #EXTINF:0 group-title="Optus Sport",Optus Sport 1
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376362
@@ -102,7 +109,7 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376372
 #EXTVLCOPT:network-caching=1000
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376373
 
-
+#------------------------Amazon Prime------------------------#
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON : UK EVENT 00" tvg-logo="http://n2086.securepoint.io:25461/images/6a91fae435e599f632f2ebed6dcf2f3e.png" group-title="AMAZON PRIME LIVE KHI CÓ TRẬN",AMAZON : UK EVENT 00
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/229664
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON : UK EVENT 01" tvg-logo="http://n2086.securepoint.io:25461/images/6a91fae435e599f632f2ebed6dcf2f3e.png" group-title="AMAZON PRIME LIVE KHI CÓ TRẬN",AMAZON : UK EVENT 01
