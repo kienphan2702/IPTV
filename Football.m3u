@@ -27,13 +27,13 @@ https://179314182.global.cdnfastest.com/live/nenFHD/chunklist.m3u8
 #EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV Backup
 https://179720687.global.cdnfastest.com/live/1-3755324-0/chunklist.m3u8
 
-#EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",CakhiaTV SD 1 (Channel 1)
+#EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/cakhiatv.png",CakhiaTV SD 1 (Channel 1)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/chunklist.m3u8
-#EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",CakhiaTV SD 2 (Channel 1)
+#EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/cakhiatv.png",CakhiaTV SD 2 (Channel 1)
 https://179665839.global.cdnfastest.com/live/lusd2/chunklist.m3u8
-#EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",CakhiaTV HD 1 (Channel 1)
+#EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/cakhiatv.png",CakhiaTV HD 1 (Channel 1)
 https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/chunklist.m3u8
-#EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",CakhiaTV HD 2 (Channel 1)
+#EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/cakhiatv.png",CakhiaTV HD 2 (Channel 1)
 https://179665839.global.cdnfastest.com/live/luhd2/chunklist.m3u8
 
 
