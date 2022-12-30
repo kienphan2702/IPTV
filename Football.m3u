@@ -2,6 +2,8 @@
 #------------------------VeboTV------------------------#
 #EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD (Channel 1)
 https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8
+#EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD2 (Channel 1)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8
 #EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD (Channel 1)
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 #EXTINF:-1 group-title="VeboTV/CakhiaTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD (Channel 1)
