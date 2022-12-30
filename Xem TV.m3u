@@ -76,3 +76,13 @@ http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/147469373
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/830291777?profile=pass
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/JOIDdwy.png" tvg-id="0124e78796e277e06e6fd117ff40d86e",HBO HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/132588545?profile=pass
+#EXTINF:-1 group-title="Others" tvg-logo="https://imgur.com/kHZtzZw.png" tvg-id="57524d4965449e0cd61cbd18c2b6691f",An ninh TV
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1229804119?profile=pass
+#EXTINF:-1 group-title="Others" tvg-logo="http://i.imgur.com/Wonm3hx.jpg" tvg-id="08eac61f81e93a86025d57e9a861fb5c",BTV9 - An Viên HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/533129736?profile=pass
+#EXTINF:-1 group-title="Others" tvg-logo="https://funkyimg.com/i/31rHY.png" tvg-id="f4efe34d6bded435184627e3689a5c92",Nhân dân HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1306783732?profile=pass
+#EXTINF:-1 group-title="Others" tvg-logo="https://imgur.com/G154n6j.png" tvg-id="a251519b0e69d9c5862e33644d9274a5",Quốc hội HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/458314146?profile=pass
+#EXTINF:-1 group-title="Others" tvg-logo="https://imgur.com/xtA4AlV.png" tvg-id="52cc96782433f0b1c210eac5a2f8caec",Quốc phòng Việt Nam HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2023148626?profile=pass
