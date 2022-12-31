@@ -10,9 +10,9 @@ http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975
 https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8
 #EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 2 (Người Thỏ)
 https://179314182.global.cdnfastest.com/live/may2SD/chunklist.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 2 (Người Già)
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 3 (Người Già)
 https://179314182.global.cdnfastest.com/live/live/playlist.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 3
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 4
 https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD 1 (Cáp Tần)
