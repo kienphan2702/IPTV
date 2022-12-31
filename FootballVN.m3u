@@ -5,30 +5,30 @@ http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975
 
 
 #------------------------VeboTV------------------------#
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD (Channel 1)
-https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD2 (Channel 1)
+
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 1
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD (Channel 1)
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD (Channel 1)
-https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8
-
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD (Channel 2)
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 2
 https://179314182.global.cdnfastest.com/live/live/playlist.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD (Channel 2)
-https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD (Channel 2)
-https://179314182.global.cdnfastest.com/live/oldFHD/playlist.m3u8
-
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD (Channel 3)
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 3
 https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD (Channel 3)
-https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8
 
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD (Channel 4)
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD 1
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD 2
+https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD 3
 https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD (Channel 4)
+
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD 1
+https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD 2
+https://179314182.global.cdnfastest.com/live/may0FHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD 3
+https://179314182.global.cdnfastest.com/live/oldFHD/playlist.m3u8
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD 4
+https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD 5
 https://179314182.global.cdnfastest.com/live/nenFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV Backup
