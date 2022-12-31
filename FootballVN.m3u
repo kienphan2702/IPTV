@@ -15,7 +15,7 @@ https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD 1
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD 2
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD 2 (Người Già)
 https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
 #EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD 3
 https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8
@@ -24,11 +24,11 @@ https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8
 https://179314182.global.cdnfastest.com/live/may1FHD/chunklist.m3u8
 #EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD 2
 https://179314182.global.cdnfastest.com/live/may0FHD/chunklist.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD 3
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD 3 (Người Già)
 https://179314182.global.cdnfastest.com/live/oldFHD/playlist.m3u8
 #EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD 4
 https://179672673.global.cdnfastest.com/live/may1FHD/chunklist.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD 5
+#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV FHD 5 (Người Nện)
 https://179314182.global.cdnfastest.com/live/nenFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV Backup
