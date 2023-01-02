@@ -1,8 +1,11 @@
 #EXTM3U
+
 #------------------------VTV------------------------#
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" tvg-id="3a8e10f3ab031628e65d95fac283199d",VTV5 HD
+http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1930464826?profile=pass
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png?dl=0" tvg-id="57102efa5659c3f6fb7c3515f9b49890",VTV Cần Thơ
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
-
 
 #------------------------VeboTV------------------------#
 
