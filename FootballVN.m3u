@@ -9,14 +9,14 @@ http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975
 
 #------------------------VeboTV------------------------#
 
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 1
-https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 2
-https://179314182.global.cdnfastest.com/live/may2SD/chunklist.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 3
-https://179314182.global.cdnfastest.com/live/live/playlist.m3u8
-#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 4
-https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8
+//#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 1
+//https://179314182.global.cdnfastest.com/live/may1SD/chunklist.m3u8
+//#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 2
+//https://179314182.global.cdnfastest.com/live/may2SD/chunklist.m3u8
+//#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 3
+//https://179314182.global.cdnfastest.com/live/live/playlist.m3u8
+//#EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV SD 4
+//https://179672673.global.cdnfastest.com/live/may1SD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeboTV" tvg-logo="https://raw.githubusercontent.com/kienphan2702/IPTV/main/Logo/vebotv.png",VeboTV HD 1
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
