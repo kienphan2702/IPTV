@@ -1,277 +1,277 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 
 #------------------------VTV------------------------#
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-id="e12ffaee54f59ab59f44a11d872574a3",VTV1 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-id="e12ffaee54f59ab59f44a11d872574a3",VTV1 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1861890017?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-id="6592a9bec7b59a571f027bbc73699b6d",VTV2 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-id="6592a9bec7b59a571f027bbc73699b6d",VTV2 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/184155509?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-id="f1d586f11691fa622af6d232b02dc024",VTV3 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-id="f1d586f11691fa622af6d232b02dc024",VTV3 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1904662001?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" tvg-id="9ed354e922c3adc3b007f81ea783b6d6",VTV4 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" tvg-id="9ed354e922c3adc3b007f81ea783b6d6",VTV4 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1767166878?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" tvg-id="3a8e10f3ab031628e65d95fac283199d",VTV5 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" tvg-id="3a8e10f3ab031628e65d95fac283199d",VTV5 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1930464826?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png?dl=0" tvg-id="57102efa5659c3f6fb7c3515f9b49890",VTV Cần Thơ
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png?dl=0" tvg-id="57102efa5659c3f6fb7c3515f9b49890",VTV Cần Thơ
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" tvg-id="511a8f605694796c5553557bd63c2eb5",VTV7 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" tvg-id="511a8f605694796c5553557bd63c2eb5",VTV7 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1619991121?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" tvg-id="e46694333bc18c38ed7682b47ac9b99b",VTV8 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" tvg-id="e46694333bc18c38ed7682b47ac9b99b",VTV8 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/865363684?profile=pass
-#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" tvg-id="3722e9c8be2f7cb8ff487c846e736f2f",VTV9 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" tvg-id="3722e9c8be2f7cb8ff487c846e736f2f",VTV9 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1223238199?profile=pass
 
 
 #------------------------HTV------------------------#
-#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" tvg-id="7b25e6dd34244c96796c63a7e04dfcd4",HTV Thể Thao
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" tvg-id="7b25e6dd34244c96796c63a7e04dfcd4",HTV Thể Thao
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1575363963?profile=pass
-#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" tvg-id="71a8d6ca10964112365fe60d1d031a6a",HTV1
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" tvg-id="71a8d6ca10964112365fe60d1d031a6a",HTV1
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1255581809?profile=pass
-#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png" tvg-id="036818dac61304af20cfc28a031b6a14",HTV2
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png" tvg-id="036818dac61304af20cfc28a031b6a14",HTV2
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1511548931?profile=pass
-#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png" tvg-id="7c8fe5e249e2d06218a48665ab98ef5c",HTV3
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png" tvg-id="7c8fe5e249e2d06218a48665ab98ef5c",HTV3
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1659211644?profile=pass
-#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png" tvg-id="e4d6517712dfacca887c737d678551d2",HTV Key
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png" tvg-id="e4d6517712dfacca887c737d678551d2",HTV Key
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2001852132?profile=pass
-#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" tvg-id="1405ef07a597ea2dfb122d673e41d2aa",HTV7
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" tvg-id="1405ef07a597ea2dfb122d673e41d2aa",HTV7
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/133104916?profile=pass
-#EXTINF:-1 group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png" tvg-id="c659a2a5a300b41f89df4aed82799450",HTV9
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png" tvg-id="c659a2a5a300b41f89df4aed82799450",HTV9
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/631396806?profile=pass
 
 
 #------------------------VTC------------------------#
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" tvg-id="98c0c1fdaae6f0e72a953e9ef0a26f2c",VTC1
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" tvg-id="98c0c1fdaae6f0e72a953e9ef0a26f2c",VTC1
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2109849752?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" tvg-id="d5748266a5a704cb8982240d75415b75",VTC2
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" tvg-id="d5748266a5a704cb8982240d75415b75",VTC2
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1719825621?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" tvg-id="cc0b2c554011893e49549963fcbf42e1",VTC3
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" tvg-id="cc0b2c554011893e49549963fcbf42e1",VTC3
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1428949964?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" tvg-id="7ed958c2af542de229706ae2dd24055b",VTC4
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" tvg-id="7ed958c2af542de229706ae2dd24055b",VTC4
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1113119102?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" tvg-id="24ca0287400fea31e815f50fe7e0b374",VTC5
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" tvg-id="24ca0287400fea31e815f50fe7e0b374",VTC5
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/117623332?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" tvg-id="62f20690aba237f5b8db9179fe613dde",VTC6
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" tvg-id="62f20690aba237f5b8db9179fe613dde",VTC6
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/268890722?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" tvg-id="e7966159bb73c36fd14e9e461cbf041c",VTC7
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" tvg-id="e7966159bb73c36fd14e9e461cbf041c",VTC7
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1499567847?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" tvg-id="1190c9454c5aff7aaebad4d38c34c3de",VTC8
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" tvg-id="1190c9454c5aff7aaebad4d38c34c3de",VTC8
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1170837521?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" tvg-id="05b34b926c9b5a46fcea61a0a97997d0",VTC9
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" tvg-id="05b34b926c9b5a46fcea61a0a97997d0",VTC9
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/306950917?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" tvg-id="67b7303ed755d60e0da1ee5e01e6eafc",VTC10
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" tvg-id="67b7303ed755d60e0da1ee5e01e6eafc",VTC10
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1043380071?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" tvg-id="79464ef0c0f4cc97ed21e8673be7b5e5",VTC11
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" tvg-id="79464ef0c0f4cc97ed21e8673be7b5e5",VTC11
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1884178041?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png" tvg-id="2332cd6302c6cdb5dd893d3ef992c523",VTC12
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png" tvg-id="2332cd6302c6cdb5dd893d3ef992c523",VTC12
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1674392099?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" tvg-id="8ba34ffa8d981f3f40504618090ff247",VTC13
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" tvg-id="8ba34ffa8d981f3f40504618090ff247",VTC13
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2052039563?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" tvg-id="abe16ee8ec0422da4368f364fe422a65",VTC14
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" tvg-id="abe16ee8ec0422da4368f364fe422a65",VTC14
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1752097195?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" tvg-id="690ae6d7d61887848fe31ed15ab0f414",VTC16
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" tvg-id="690ae6d7d61887848fe31ed15ab0f414",VTC16
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1474693737?profile=pass
 
 
 #------------------------VTVcab------------------------#
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/TRFgLus.jpg" tvg-id="5d7703c25646e486edd098fa237b05f8",VTVCab1 - Vie Giải trí
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/TRFgLus.jpg" tvg-id="5d7703c25646e486edd098fa237b05f8",VTVCab1 - Vie Giải trí
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1107523421?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/zhctbtP.jpg" tvg-id="6c6cdc9b34dd33db89ff52dcc6f2b92d",VTVCab10 - Vie Dramas
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/zhctbtP.jpg" tvg-id="6c6cdc9b34dd33db89ff52dcc6f2b92d",VTVCab10 - Vie Dramas
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/467430508?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/zhctbtP" tvg-id="ed63d8ae567dadff1626517f89a08f5c",VTVCab11 - VGS Shop
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/zhctbtP" tvg-id="ed63d8ae567dadff1626517f89a08f5c",VTVCab11 - VGS Shop
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/785933293?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://imgur.com/RcLcw6o.png" tvg-id="02dcff7710a344a47178f77149428316",VTVCab12 - Style TV
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/RcLcw6o.png" tvg-id="02dcff7710a344a47178f77149428316",VTVCab12 - Style TV
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2013256706?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://imgur.com/HwMUDwy.png" tvg-id="b3c7cbdd041d0079527592a56a120250",VTVCab13 - HYUNDAI
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/HwMUDwy.png" tvg-id="b3c7cbdd041d0079527592a56a120250",VTVCab13 - HYUNDAI
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1573636019?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/muVwF90.jpg" tvg-id="a477475ca8bc22099c6342e230958fec",VTVCab15
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/muVwF90.jpg" tvg-id="a477475ca8bc22099c6342e230958fec",VTVCab15
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1548187556?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://imgur.com/fBWtwIH.png" tvg-id="82a32b7f350eb7a87e404dc54a2089e7",VTVCab17 - Yeah1 TV
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/fBWtwIH.png" tvg-id="82a32b7f350eb7a87e404dc54a2089e7",VTVCab17 - Yeah1 TV
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2133566338?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/ZxWdKth.jpg" tvg-id="852f5f4203489d11e4dd298fb248a6ba",VTVCab18 - Thể Thao Tin Tức HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/ZxWdKth.jpg" tvg-id="852f5f4203489d11e4dd298fb248a6ba",VTVCab18 - Thể Thao Tin Tức HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1113534341?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/4t7M1DY.jpg" tvg-id="b0e29d37c329b560c42a9258014573a8",VTVCab19 - FilmTV
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/4t7M1DY.jpg" tvg-id="b0e29d37c329b560c42a9258014573a8",VTVCab19 - FilmTV
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/933094064?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://imgur.com/MSs1rGc.png" tvg-id="02474e5bb35d2cff333804bd4ecde1c4",VTVCab2 - Phim Việt
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/MSs1rGc.png" tvg-id="02474e5bb35d2cff333804bd4ecde1c4",VTVCab2 - Phim Việt
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1531856642?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://imgur.com/gLpFARR.png" tvg-id="093174f4f056323bd3d463b5ff0bc7ae",VTVCab20 - VFamily
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/gLpFARR.png" tvg-id="093174f4f056323bd3d463b5ff0bc7ae",VTVCab20 - VFamily
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1953771785?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://funkyimg.com/i/2Z4Va.png" tvg-id="9f30468ad7d8ba104aef1ab4111006ca",VTVCab23 - THỂ THAO GOLF HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://funkyimg.com/i/2Z4Va.png" tvg-id="9f30468ad7d8ba104aef1ab4111006ca",VTVCab23 - THỂ THAO GOLF HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/172372127?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/muVwF90.jpg" tvg-id="38f1768cd95e5bf87d79f3716392df63",VTVCab4 - LOVE HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/muVwF90.jpg" tvg-id="38f1768cd95e5bf87d79f3716392df63",VTVCab4 - LOVE HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/209121592?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://imgur.com/RHEqrMK.png" tvg-id="1adae5afc4e313b20858d34d3047efa2",VTVCab6 - Hay TV
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/RHEqrMK.png" tvg-id="1adae5afc4e313b20858d34d3047efa2",VTVCab6 - Hay TV
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/803592730?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/muVwF90.jpg" tvg-id="9b7645f3456380249a4b88e485af7a7a",VTVCab7
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/muVwF90.jpg" tvg-id="9b7645f3456380249a4b88e485af7a7a",VTVCab7
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1933932187?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://imgur.com/1ORpCYB.png" tvg-id="6d8b6ec302af1523e67bdc9aafb89890",VTVCab8 - BiBi
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/1ORpCYB.png" tvg-id="6d8b6ec302af1523e67bdc9aafb89890",VTVCab8 - BiBi
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1131318125?profile=pass
-#EXTINF:-1 group-title="VTVcab" tvg-logo="http://i.imgur.com/H25uskz.jpg" tvg-id="65710d21961baf19b15ca431edd45bfe",VTVCab9 - INFO TV
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/H25uskz.jpg" tvg-id="65710d21961baf19b15ca431edd45bfe",VTVCab9 - INFO TV
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/554529125?profile=pass
 
 
 #------------------------Địa Phương------------------------#
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/kHZtzZw.png" tvg-id="57524d4965449e0cd61cbd18c2b6691f",An ninh TV
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/kHZtzZw.png" tvg-id="57524d4965449e0cd61cbd18c2b6691f",An ninh TV
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1229804119?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://i.imgur.com/Wonm3hx.jpg" tvg-id="08eac61f81e93a86025d57e9a861fb5c",BTV9 - An Viên HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/Wonm3hx.jpg" tvg-id="08eac61f81e93a86025d57e9a861fb5c",BTV9 - An Viên HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/533129736?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/G154n6j.png" tvg-id="a251519b0e69d9c5862e33644d9274a5",Quốc hội HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/G154n6j.png" tvg-id="a251519b0e69d9c5862e33644d9274a5",Quốc hội HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/458314146?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/xtA4AlV.png" tvg-id="52cc96782433f0b1c210eac5a2f8caec",Quốc phòng Việt Nam HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/xtA4AlV.png" tvg-id="52cc96782433f0b1c210eac5a2f8caec",Quốc phòng Việt Nam HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2023148626?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/I9X5SxR.png" tvg-id="5eca8cd6fcd909f5f620c1cacfecaa36",SCTV10 - Sao Nam
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/I9X5SxR.png" tvg-id="5eca8cd6fcd909f5f620c1cacfecaa36",SCTV10 - Sao Nam
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1452067422?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/BQIrc6A.png" tvg-id="2af41152a5f0e2005946b36b77eed48b",SCTV8 - VITV
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/BQIrc6A.png" tvg-id="2af41152a5f0e2005946b36b77eed48b",SCTV8 - VITV
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1376908330?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/PEXGQAG.png" tvg-id="c6564c8039628585b9b6581b3878a9b8",TLC HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/PEXGQAG.png" tvg-id="c6564c8039628585b9b6581b3878a9b8",TLC HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/5002950?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://i.imgur.com/lx2B8VG.jpg" tvg-id="29e696f767f25fcdc9328293dfb502c8",TV5MONDE
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/lx2B8VG.jpg" tvg-id="29e696f767f25fcdc9328293dfb502c8",TV5MONDE
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2006378025?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/bKAWD0f.jpg" tvg-id="7dc451c685f9d3ac7469e4069a5f9842",VIETNAM JOURNEY
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://i.imgur.com/bKAWD0f.jpg" tvg-id="7dc451c685f9d3ac7469e4069a5f9842",VIETNAM JOURNEY
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1179763837?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://funkyimg.com/i/31qhJ.png" tvg-id="f62312041af3b033718343219ce37ee7",VNEWS HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://funkyimg.com/i/31qhJ.png" tvg-id="f62312041af3b033718343219ce37ee7",VNEWS HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/68297718?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://i.imgur.com/gkyyLYt.jpg" tvg-id="e37f2e6f9a654dffcc4d88d59465447d",Vĩnh Long 1 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/gkyyLYt.jpg" tvg-id="e37f2e6f9a654dffcc4d88d59465447d",Vĩnh Long 1 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1865318371?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://i.imgur.com/gkyyLYt.jpg" tvg-id="9e9e7c36342a004db1be3237ae1b0dd6",Vĩnh Long 2 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/gkyyLYt.jpg" tvg-id="9e9e7c36342a004db1be3237ae1b0dd6",Vĩnh Long 2 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/914136734?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://i.imgur.com/gkyyLYt.jpg" tvg-id="1b0e4240a050e09baa6fc53f8bb40b75",Vĩnh Long 3 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/gkyyLYt.jpg" tvg-id="1b0e4240a050e09baa6fc53f8bb40b75",Vĩnh Long 3 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1078070811?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://i.imgur.com/gkyyLYt.jpg" tvg-id="a0c6877bc500848fa5226ebe6099fbce",Vĩnh Long 4 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/gkyyLYt.jpg" tvg-id="a0c6877bc500848fa5226ebe6099fbce",Vĩnh Long 4 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2072495776?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/Ka8qiSB.png" tvg-id="9aa07dc724e1ff5275807d0b421da25a",Đồng Nai 1 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/Ka8qiSB.png" tvg-id="9aa07dc724e1ff5275807d0b421da25a",Đồng Nai 1 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1199415450?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/Jod5zk5.png" tvg-id="ae40c4231c2b405d926e801b98d24c6f",Bình Dương 1 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/Jod5zk5.png" tvg-id="ae40c4231c2b405d926e801b98d24c6f",Bình Dương 1 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/600064174?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/bAszEEm.png" tvg-id="c5515875c1c238e6ede9c5340c652ace",Bình Dương 4 - iMovie TV HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/bAszEEm.png" tvg-id="c5515875c1c238e6ede9c5340c652ace",Bình Dương 4 - iMovie TV HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1968722373?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/4KdIzZE.png" tvg-id="3828f526a6fb5498b4311a616b8e9ceb",Bắc Ninh HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/4KdIzZE.png" tvg-id="3828f526a6fb5498b4311a616b8e9ceb",Bắc Ninh HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/653600824?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://i.imgur.com/hljdH2o.jpg" tvg-id="9a186f1ed199b0468dbcea248e1a454c",Hanoicab1 - HITV
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/hljdH2o.jpg" tvg-id="9a186f1ed199b0468dbcea248e1a454c",Hanoicab1 - HITV
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/510597274?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/dr2eb5D.png" tvg-id="a4de829b329149a9e0d4a7db4ffcc762",Hà Nội 1 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/dr2eb5D.png" tvg-id="a4de829b329149a9e0d4a7db4ffcc762",Hà Nội 1 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/461561508?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/HCkpPFZ.png" tvg-id="acadf9020f39bbe05a057e7382dc7741",Hà Nội 2 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/HCkpPFZ.png" tvg-id="acadf9020f39bbe05a057e7382dc7741",Hà Nội 2 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/49917356?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/lAu4A9Q.png" tvg-id="f0a6971afab5de9d57e2d2ad3acffe5f",Hà Tĩnh HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/lAu4A9Q.png" tvg-id="f0a6971afab5de9d57e2d2ad3acffe5f",Hà Tĩnh HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/446146288?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/9bnQqNs.png" tvg-id="eff6fb36e49ff6475d8411fb8c6c2a2f",Hưng Yên HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/9bnQqNs.png" tvg-id="eff6fb36e49ff6475d8411fb8c6c2a2f",Hưng Yên HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/922482415?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/LLJN2sK.png" tvg-id="9784f0d13e91ece24d6d74b70f159588",Hải Phòng HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/LLJN2sK.png" tvg-id="9784f0d13e91ece24d6d74b70f159588",Hải Phòng HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1374717079?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="http://i.imgur.com/TiQJt5U.jpg" tvg-id="d6ee657434aff06840a4cf017d48e5e9",Kiên Giang HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/TiQJt5U.jpg" tvg-id="d6ee657434aff06840a4cf017d48e5e9",Kiên Giang HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1952837334?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/M7LYaGG.png" tvg-id="a95dc9025bc17c9d4bcd997211097093",Nghệ An HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/M7LYaGG.png" tvg-id="a95dc9025bc17c9d4bcd997211097093",Nghệ An HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/46751145?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/fiTyh8i.png" tvg-id="38f6b6301bf074253c84ad782e411b37",Phú Thọ HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/fiTyh8i.png" tvg-id="38f6b6301bf074253c84ad782e411b37",Phú Thọ HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/817296952?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/L1I0ngF.png" tvg-id="8784bcddc330e407e48e74f617b12037",Quảng Ngãi HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/L1I0ngF.png" tvg-id="8784bcddc330e407e48e74f617b12037",Quảng Ngãi HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1572635783?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.wingur.com/LRw3T.jpg" tvg-id="dd89c7334cdcaaf13c970e1c08473940",Quảng Ninh 3 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://i.wingur.com/LRw3T.jpg" tvg-id="dd89c7334cdcaaf13c970e1c08473940",Quảng Ninh 3 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/868714973?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/WQ5fAeY.png" tvg-id="d102768da7aacaccdd369c361ba34eac",Thanh Hoá HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/WQ5fAeY.png" tvg-id="d102768da7aacaccdd369c361ba34eac",Thanh Hoá HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/225837777?profile=pass
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/cjbLDud.png" tvg-id="ece1cf9f7596e6ad7b124ee8da6c146e",Thái Nguyên 1 HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/cjbLDud.png" tvg-id="ece1cf9f7596e6ad7b124ee8da6c146e",Thái Nguyên 1 HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/533717484?profile=pass
 
 
 
 #------------------------Quốc Tế------------------------#
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/JFAPqWV.jpg" tvg-id="e48cc93e3e1414931551dacdea453c19",ABC Australia
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/JFAPqWV.jpg" tvg-id="e48cc93e3e1414931551dacdea453c19",ABC Australia
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1053396196?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/V6dxmRT.jpg" tvg-id="5782d3a61dcf47dcc3ccf867b2fd086a",Animal Planet HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/V6dxmRT.jpg" tvg-id="5782d3a61dcf47dcc3ccf867b2fd086a",Animal Planet HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/651395671?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/NUKeEuL.png" tvg-id="bb2c943fd826e34c0b3124fc42bfef4e",ANIMAX HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/NUKeEuL.png" tvg-id="bb2c943fd826e34c0b3124fc42bfef4e",ANIMAX HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1066675387?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/E3M02yH.png" tvg-id="8881cd7c4c7e6413ff143ae1975e5816",arirang
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/E3M02yH.png" tvg-id="8881cd7c4c7e6413ff143ae1975e5816",arirang
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2093842824?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://funkyimg.com/i/2Z7mR.jpeg" tvg-id="6f5009a62b2848399a4b88befb1f7b73",Asian Food Network HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://funkyimg.com/i/2Z7mR.jpeg" tvg-id="6f5009a62b2848399a4b88befb1f7b73",Asian Food Network HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/638144623?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/AyyX0IP.png" tvg-id="f8649c10bc8426aa4158328120ba8874",AXN HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/AyyX0IP.png" tvg-id="f8649c10bc8426aa4158328120ba8874",AXN HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1663102335?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/LBU2zCq.png" tvg-id="d537b71d3c4f15f326834609445fbd11",BabyTV HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/LBU2zCq.png" tvg-id="d537b71d3c4f15f326834609445fbd11",BabyTV HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/498546645?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/naZ6qqs.png" tvg-id="8f723ed8c54f105ef83eec8ab13a818d",BBC EARTH HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/naZ6qqs.png" tvg-id="8f723ed8c54f105ef83eec8ab13a818d",BBC EARTH HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1480487567?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.ibb.co/kgg0spD/BBC-Life-Style-TV.png" tvg-id="030e0d50d3fa75c34aba382f67ce7502",BBC Lifestyle HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://i.ibb.co/kgg0spD/BBC-Life-Style-TV.png" tvg-id="030e0d50d3fa75c34aba382f67ce7502",BBC Lifestyle HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/107598662?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/GzuP1MN.png" tvg-id="d58801beceab6c0e1b2b6404736097fc",BBC World News
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/GzuP1MN.png" tvg-id="d58801beceab6c0e1b2b6404736097fc",BBC World News
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1040287957?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/HC1WD0K.png" tvg-id="499c18d1b88a8a0f6a661b13defbab71",Bloomberg HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/HC1WD0K.png" tvg-id="499c18d1b88a8a0f6a661b13defbab71",Bloomberg HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1360567369?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/KErWSdf.png" tvg-id="8bb9613fd3fc294fd3fc8e53bbd5647b",BOOMERANG HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/KErWSdf.png" tvg-id="8bb9613fd3fc294fd3fc8e53bbd5647b",BOOMERANG HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1063369099?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/m6IL1C7.jpg" tvg-id="413f7d31f0909b439f0701df04a0ecfa",Cartoon Nettwork HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/m6IL1C7.jpg" tvg-id="413f7d31f0909b439f0701df04a0ecfa",Cartoon Nettwork HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/830291777?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/Qt5SQyE.png" tvg-id="6656ba28397220bf319a162b56632423",CBEEBIES HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/Qt5SQyE.png" tvg-id="6656ba28397220bf319a162b56632423",CBEEBIES HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/683300454?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/NvoNVEi.png" tvg-id="d4b653908af0e278b4028a45e2414339",Channel News Asia HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/NvoNVEi.png" tvg-id="d4b653908af0e278b4028a45e2414339",Channel News Asia HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/273921748?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/p7w1FbM.png" tvg-id="bad129916ead6c0142d76c4853cb488c",Channel V HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/p7w1FbM.png" tvg-id="bad129916ead6c0142d76c4853cb488c",Channel V HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/287953338?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/p7w1FbM.png" tvg-id="823baeb937a16b52118278b29926a625",Channel V HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/p7w1FbM.png" tvg-id="823baeb937a16b52118278b29926a625",Channel V HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/967719810?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/4vYV1PK.png" tvg-id="4810b6cb77f6f9b8708cd27cc69879c2",CINEMAX HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://i.imgur.com/4vYV1PK.png" tvg-id="4810b6cb77f6f9b8708cd27cc69879c2",CINEMAX HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1270222920?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://funkyimg.com/i/31cLk.png" tvg-id="0246403320a1df430bace7893e32cf98",Clubbing TV HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://funkyimg.com/i/31cLk.png" tvg-id="0246403320a1df430bace7893e32cf98",Clubbing TV HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/859850242?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/x90A7Ad.png" tvg-id="13da0f447e6ec07357e32990f0ddcfc1",CNBC
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://i.imgur.com/x90A7Ad.png" tvg-id="13da0f447e6ec07357e32990f0ddcfc1",CNBC
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1141889555?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/68hmRiM.png" tvg-id="d9fc4706c5f729c8b9bdba48c4816bf7",CNN HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://i.imgur.com/68hmRiM.png" tvg-id="d9fc4706c5f729c8b9bdba48c4816bf7",CNN HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/105381081?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/vf9RpQb.png" tvg-id="41cf61e2e98b01fbc63354bd8fbf37f9",Da Vinci Learning HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/vf9RpQb.png" tvg-id="41cf61e2e98b01fbc63354bd8fbf37f9",Da Vinci Learning HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1650577217?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/8cWiZ54.png" tvg-id="97cb0fd31f6f8c779659e53856650165",DISCOVERY ASIA HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/8cWiZ54.png" tvg-id="97cb0fd31f6f8c779659e53856650165",DISCOVERY ASIA HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1393544087?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://funkyimg.com/i/2Z4Vz.png" tvg-id="2ffdb8c6793612758f838b5fc2a3bd68",DISCOVERY HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://funkyimg.com/i/2Z4Vz.png" tvg-id="2ffdb8c6793612758f838b5fc2a3bd68",DISCOVERY HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1186528559?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/38VPB1Z.jpg" tvg-id="54bf90bedff5b41707fcf7c4cede378b",Disney HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/38VPB1Z.jpg" tvg-id="54bf90bedff5b41707fcf7c4cede378b",Disney HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1049673556?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/ThU6vkZ.png" tvg-id="c4263eeac57ace085d0a551148508393",Disney Junior HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/ThU6vkZ.png" tvg-id="c4263eeac57ace085d0a551148508393",Disney Junior HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1782458052?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/k1PUAil.ng" tvg-id="39857111fa8399ce77acdc2e6725b281",DRAGON TV
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/k1PUAil.ng" tvg-id="39857111fa8399ce77acdc2e6725b281",DRAGON TV
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/292652345?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/XpvnFcp.png" tvg-id="8398da052c873f7aa307c98133021468",DREAMWORKS HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/XpvnFcp.png" tvg-id="8398da052c873f7aa307c98133021468",DREAMWORKS HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/98211971?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/ai4JYPE.jpg" tvg-id="7281d1437dbf6cfa02a48a20769af9ea",DW (Deutsch)
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/ai4JYPE.jpg" tvg-id="7281d1437dbf6cfa02a48a20769af9ea",DW (Deutsch)
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1137803634?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/ai4JYPE.jpg" tvg-id="84f52a95f9093dd56b904809a792bf8a",DW (English)
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/ai4JYPE.jpg" tvg-id="84f52a95f9093dd56b904809a792bf8a",DW (English)
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/355136900?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/AVm8t3Z.png" tvg-id="e57658b27b3aed2e41fa69c3a3e74113",Fashion HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/AVm8t3Z.png" tvg-id="e57658b27b3aed2e41fa69c3a3e74113",Fashion HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/844658405?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/keaKVLJ.png" tvg-id="ce3467c0087325e279cbee50a2f0b950",FOX Movies HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/keaKVLJ.png" tvg-id="ce3467c0087325e279cbee50a2f0b950",FOX Movies HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1080505550?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/JOIDdwy.png" tvg-id="0124e78796e277e06e6fd117ff40d86e",HBO HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://i.imgur.com/JOIDdwy.png" tvg-id="0124e78796e277e06e6fd117ff40d86e",HBO HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/132588545?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/HXFXYdZ.png" tvg-id="4e245338b61b473f7f83d19aa64488a5",KBS World
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/HXFXYdZ.png" tvg-id="4e245338b61b473f7f83d19aa64488a5",KBS World
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/944972878?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/k1PUAil.ng" tvg-id="28cd22531e5de4584b008696102c550d",MSTV
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/k1PUAil.ng" tvg-id="28cd22531e5de4584b008696102c550d",MSTV
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1394789672?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/ZxK2Bw9.png" tvg-id="90f078ff82b632a57c81d7cf07193864",MTV HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://i.imgur.com/ZxK2Bw9.png" tvg-id="90f078ff82b632a57c81d7cf07193864",MTV HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2138632336?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/k2ERpVZ.jpg" tvg-id="a28843ff37dafdb06e11577a55c7e43a",MyTV Intro
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/k2ERpVZ.jpg" tvg-id="a28843ff37dafdb06e11577a55c7e43a",MyTV Intro
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2135132322?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/2AaD0dS.jpg" tvg-id="0ad08e4b75fd2d508e6c6328d27391a0",Nat Geo People HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/2AaD0dS.jpg" tvg-id="0ad08e4b75fd2d508e6c6328d27391a0",Nat Geo People HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1267650570?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/jssSTAc.jpg" tvg-id="e1ca6a21982c688a80baefac535b7176",Nat Geo Wild HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/jssSTAc.jpg" tvg-id="e1ca6a21982c688a80baefac535b7176",Nat Geo Wild HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/560646881?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/oi83ML8.jpg" tvg-id="e8612e5a534427582a915f4e548fc2c4",National Geographic HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/oi83ML8.jpg" tvg-id="e8612e5a534427582a915f4e548fc2c4",National Geographic HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1512989160?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/pjSWuxG.png" tvg-id="5d42bb0c20bb6e841bd56d862c5226d5",NHK WORLD HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/pjSWuxG.png" tvg-id="5d42bb0c20bb6e841bd56d862c5226d5",NHK WORLD HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/213598813?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/hV4VIs2.jpg" tvg-id="72dbe055f296aaf93212259212c951ed",OPT1
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/hV4VIs2.jpg" tvg-id="72dbe055f296aaf93212259212c951ed",OPT1
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1440799602?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/qhbsK2l.png" tvg-id="7d88c77ecef8307f0c4baab246a9401d",Outdoor Channel HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/qhbsK2l.png" tvg-id="7d88c77ecef8307f0c4baab246a9401d",Outdoor Channel HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2127005821?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/sCvSyox.jpg" tvg-id="ce63d62711e171a54ea52a6e9b1ba22c",POCCNR PTP
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/sCvSyox.jpg" tvg-id="ce63d62711e171a54ea52a6e9b1ba22c",POCCNR PTP
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/668361678?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/n0BupyH.jpg" tvg-id="4e117d35af3ca737a005a54a90ef42b8",Rai
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/n0BupyH.jpg" tvg-id="4e117d35af3ca737a005a54a90ef42b8",Rai
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/897388878?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/tLRt17t.png" tvg-id="9612861acd5f9453bc3bcac63273a8af",Red By HBO HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/tLRt17t.png" tvg-id="9612861acd5f9453bc3bcac63273a8af",Red By HBO HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/444994198?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://i.imgur.com/oUlVrf5.jpg" tvg-id="55a3c685a048462a0e6ca30e1a5c2f81",RT
+#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/oUlVrf5.jpg" tvg-id="55a3c685a048462a0e6ca30e1a5c2f81",RT
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/96904021?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/9qJI1Mg.png" tvg-id="5c103604f9466156fa2d738fd7d191fc",Warner HD
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/9qJI1Mg.png" tvg-id="5c103604f9466156fa2d738fd7d191fc",Warner HD
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/70651996?profile=pass
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imgur.com/sTK7s5R.png" tvg-id="306b1e056fa6ec97ba83d472c58cc1ca" tvg-chno="1",France 24
+#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/sTK7s5R.png" tvg-id="306b1e056fa6ec97ba83d472c58cc1ca" tvg-chno="1",France 24
 http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/85879600?profile=pass
 
 #------------------------Zing Radio------------------------#
@@ -293,52 +293,52 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #------------------------Radio VN------------------------#
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hồ Chí Minh
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hồ Chí Minh
 #EXTVLCOPT:network-caching=1000
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w252968487.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/247.png", VOH FM 99.9MHz
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/247.png", VOH FM 99.9MHz
 #EXTVLCOPT:network-caching=1000
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/248.png", VOH FM 95.6MHz
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/248.png", VOH FM 95.6MHz
 #EXTVLCOPT:network-caching=1000
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/249.png", VOH FM 87.7MHz
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/249.png", VOH FM 87.7MHz
 #EXTVLCOPT:network-caching=1000
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:-1 group-title="VOV"  tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hà Nội
+#EXTINF:-1 group-title="Radio VN"  tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hà Nội
 #EXTVLCOPT:network-caching=1000
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w95999837.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 Tây Bắc
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 Tây Bắc
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 Tây Nguyên
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 Tây Nguyên
 http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 ĐBSCL
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 ĐBSCL
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 TPHCM
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 TPHCM
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOVGT Mekong
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOVGT Mekong
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://cdn.hqth.me/logo/thumbs/246.png", VOV Sức khỏe 89
+#EXTINF:-1 group-title="Radio VN" tvg-logo="https://cdn.hqth.me/logo/thumbs/246.png", VOV Sức khỏe 89
 http://media.kythuatvov.vn:7021/;stream/
 
 
-#EXTINF:-1 group-title="Other" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg2_XVmgsMCxIOU3RhdGlvblByb2ZpbGUYgIDQi9zzhAgMogEEemVubw/image/", Radio Nhạc Xuân
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg2_XVmgsMCxIOU3RhdGlvblByb2ZpbGUYgIDQi9zzhAgMogEEemVubw/image/", Radio Nhạc Xuân
 https://stream.zeno.fm/hvtxgd85rm0uv
-#EXTINF:-1 group-title="Other" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/", M Radio Việt Nam
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/", M Radio Việt Nam
 https://stream.zeno.fm/4q7y9hvkp2zuv
-#EXTINF:-1 group-title="Other" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQoL-YpAoMogEEemVubw/image/", Cải Lương Việt Nam
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQoL-YpAoMogEEemVubw/image/", Cải Lương Việt Nam
 https://stream.zeno.fm/0trm6wrnga0uv
-#EXTINF:-1 group-title="Other" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQ7brTsQgMogEEemVubw/image/", Radio Nhạc Vàng Xưa
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQ7brTsQgMogEEemVubw/image/", Radio Nhạc Vàng Xưa
 https://stream.zeno.fm/x2z45v7d84zuv
-#EXTINF:-1 group-title="Other" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/", Radio DJ
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/", Radio DJ
 https://stream.zeno.fm/ehbutdfccm0uv
-#EXTINF:-1 group-title="Other" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQiavcsgsMogEEemVubw/image/", Radio Phật Giáo
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQiavcsgsMogEEemVubw/image/", Radio Phật Giáo
 https://stream.zeno.fm/8456uy0bcm0uv
-#EXTINF:-1 group-title="Other" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/", Radio Nhạc Dân Ca
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/", Radio Nhạc Dân Ca
 https://stream.zeno.fm/a2dbs2tq1p8uv
