@@ -2,24 +2,23 @@
 
 #------------------------VTV------------------------#
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-id="e12ffaee54f59ab59f44a11d872574a3",VTV1 HD
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1861890017?profile=pass
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1864568144?profile=pass
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-id="6592a9bec7b59a571f027bbc73699b6d",VTV2 HD
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/184155509?profile=pass
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1894284259?profile=pass
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-id="f1d586f11691fa622af6d232b02dc024",VTV3 HD
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1904662001?profile=pass
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1942408909?profile=pass
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" tvg-id="9ed354e922c3adc3b007f81ea783b6d6",VTV4 HD
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1767166878?profile=pass
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1244990927?profile=pass
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" tvg-id="3a8e10f3ab031628e65d95fac283199d",VTV5 HD
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1930464826?profile=pass
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2097726145?profile=pass
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png?dl=0" tvg-id="57102efa5659c3f6fb7c3515f9b49890",VTV Cần Thơ
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/812872975?profile=pass
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1297593941?profile=pass
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" tvg-id="511a8f605694796c5553557bd63c2eb5",VTV7 HD
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1619991121?profile=pass
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2009311989?profile=pass
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" tvg-id="e46694333bc18c38ed7682b47ac9b99b",VTV8 HD
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/865363684?profile=pass
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/462220505?profile=pass
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" tvg-id="3722e9c8be2f7cb8ff487c846e736f2f",VTV9 HD
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1223238199?profile=pass
-
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1841573868?profile=pass
 
 #------------------------HTV------------------------#
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" tvg-id="7b25e6dd34244c96796c63a7e04dfcd4",HTV Thể Thao
@@ -72,40 +71,38 @@ http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/147469373
 
 
 #------------------------VTVcab------------------------#
-#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/TRFgLus.jpg" tvg-id="5d7703c25646e486edd098fa237b05f8",VTVCab1 - Vie Giải trí
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1107523421?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/zhctbtP.jpg" tvg-id="6c6cdc9b34dd33db89ff52dcc6f2b92d",VTVCab10 - Vie Dramas
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/467430508?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/zhctbtP" tvg-id="ed63d8ae567dadff1626517f89a08f5c",VTVCab11 - VGS Shop
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/785933293?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/RcLcw6o.png" tvg-id="02dcff7710a344a47178f77149428316",VTVCab12 - Style TV
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2013256706?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/HwMUDwy.png" tvg-id="b3c7cbdd041d0079527592a56a120250",VTVCab13 - HYUNDAI
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1573636019?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/muVwF90.jpg" tvg-id="a477475ca8bc22099c6342e230958fec",VTVCab15
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1548187556?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/fBWtwIH.png" tvg-id="82a32b7f350eb7a87e404dc54a2089e7",VTVCab17 - Yeah1 TV
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2133566338?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/ZxWdKth.jpg" tvg-id="852f5f4203489d11e4dd298fb248a6ba",VTVCab18 - Thể Thao Tin Tức HD
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1113534341?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/4t7M1DY.jpg" tvg-id="b0e29d37c329b560c42a9258014573a8",VTVCab19 - FilmTV
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/933094064?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/MSs1rGc.png" tvg-id="02474e5bb35d2cff333804bd4ecde1c4",VTVCab2 - Phim Việt
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1531856642?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/gLpFARR.png" tvg-id="093174f4f056323bd3d463b5ff0bc7ae",VTVCab20 - VFamily
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1953771785?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="https://funkyimg.com/i/2Z4Va.png" tvg-id="9f30468ad7d8ba104aef1ab4111006ca",VTVCab23 - THỂ THAO GOLF HD
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/172372127?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/muVwF90.jpg" tvg-id="38f1768cd95e5bf87d79f3716392df63",VTVCab4 - LOVE HD
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/209121592?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/RHEqrMK.png" tvg-id="1adae5afc4e313b20858d34d3047efa2",VTVCab6 - Hay TV
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/803592730?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/muVwF90.jpg" tvg-id="9b7645f3456380249a4b88e485af7a7a",VTVCab7
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1933932187?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="https://imgur.com/1ORpCYB.png" tvg-id="6d8b6ec302af1523e67bdc9aafb89890",VTVCab8 - BiBi
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1131318125?profile=pass
-#EXTINF:-1 group-title="Xem TV" tvg-logo="http://i.imgur.com/H25uskz.jpg" tvg-id="65710d21961baf19b15ca431edd45bfe",VTVCab9 - INFO TV
-http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/554529125?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/9TBBQNL.png" tvg-id="1bc0e4ec9b5d8beb07427f8c811b0b11" tvg-chno="17",VTVCab1 - Giải trí TV
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1826930715?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/MSs1rGc.png" tvg-id="832dd5f1c4c98d3d30372c7b0d8b78e1" tvg-chno="18",VTVCab2 - Phim Việt
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1909796227?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/QfDeJpD.png" tvg-id="7d4adb30e377fa439a7161919e94c403" tvg-chno="19",VTVCab3 - Thể thao TV HD
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/819677821?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/q2D3u2L.png" tvg-id="efe7257a48204f0b8da0e2ab507209e3" tvg-chno="20",VTVCab4 - Văn hoá TV HD
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2049304559?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/FoGuNrA.png" tvg-id="ae885cf9e3cfeec29992c027b87492e9" tvg-chno="21",VTVCab5 - E Channel
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2036107438?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/RHEqrMK.png" tvg-id="39872f86f590c849fd7299fd18ed81c7" tvg-chno="22",VTVCab6 - Hay TV
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/103778105?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/DIgineG.png" tvg-id="48f8fb10c247fdf2608a4cd5f0beaf36" tvg-chno="23",VTVCab7 - D Dramas
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/284948552?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/2bx9wzB.png" tvg-id="e80545c190720e0388c073bfe61bfed2" tvg-chno="25",VTVCab9 - Info TV
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1095042536?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/Qu4654z.png" tvg-id="499fb6eac7d0608ddd3d45e7c320d23a" tvg-chno="26",VTVCab10 - O2TV
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1790353225?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/RcLcw6o.png" tvg-id="a9afb569cd9ba9bc46cce40f7732f6b0" tvg-chno="27",VTVCab12 - Style TV
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1773514665?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/R7wCEFr.png" tvg-id="69ac12522878df402e507657edb3ef51" tvg-chno="28",VTVCab15 - M Channel
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1376955497?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/Q5tZHnj.png" tvg-id="6731cc045f532297375d81e26328a8ff" tvg-chno="29",VTVCab16 - Bóng đá TV HD
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/80490855?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/fBWtwIH.png" tvg-id="f9267e6d69e648dc5060f3f6e3097876" tvg-chno="30",VTVCab17 - Yeah1 TV
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1836984057?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/D6morqp.png" tvg-id="790fc1a5cfafed759da9b222cf6ef8d8" tvg-chno="31",VTVCab18 - Thể thao Tin tức HD
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/633409401?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/gLpFARR.png" tvg-id="63abcaed527835bf4c10b1449a2a2fa2" tvg-chno="33",VTVCab20 - VFamily
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1841998691?profile=pass
+#EXTINF:-1 group-title="VTVcab" tvg- logo="https://imgur.com/kHLF2jc.png" tvg-id="065050ccb884968325be0474c3fd6fda" tvg-chno="34",VTVCab23 - Thể thao Golf HD
+http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1280331782?profile=pass
 
 
 #------------------------Địa Phương------------------------#
