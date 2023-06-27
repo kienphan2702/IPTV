@@ -2,9 +2,9 @@
 
 #------------------------VTV------------------------#
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-id="e12ffaee54f59ab59f44a11d872574a3",VTV1 HD
-http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1864568144?profile=pass
+https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHYxaGRfNDAwMC5zdHJlYW18ZnB0fDE2ODc4ODMwNDh8NDIuMTE3LjYzLjM0fGY3OTE0ZmZlY2Q4OWQ2MjMxOTQ2YzViNmExNWNkN2Qy/fnxhd1/vtv1hd_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-id="6592a9bec7b59a571f027bbc73699b6d",VTV2 HD
-http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1894284259?profile=pass
+https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHYyXzQwMDAuc3RyZWFtfGZwdHwxNjg3ODgzMTA5fDQyLjExNy42My4zNHwyMjdiOTg4ZjA1OTNmNGQ4NThmYzY1MzU3ZWIzOWNiYw/fnxhd1/vtv2_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-id="f1d586f11691fa622af6d232b02dc024",VTV3 HD
 http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1942408909?profile=pass
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" tvg-id="9ed354e922c3adc3b007f81ea783b6d6",VTV4 HD
