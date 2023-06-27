@@ -6,9 +6,9 @@ https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHYxaGRfNDAwMC5zdHJlYW18ZnB0fDE2ODc
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-id="6592a9bec7b59a571f027bbc73699b6d",VTV2 HD
 https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHYyXzQwMDAuc3RyZWFtfGZwdHwxNjg3ODgzMTA5fDQyLjExNy42My4zNHwyMjdiOTg4ZjA1OTNmNGQ4NThmYzY1MzU3ZWIzOWNiYw/fnxhd1/vtv2_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-id="f1d586f11691fa622af6d232b02dc024",VTV3 HD
-http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1942408909?profile=pass
+https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHYzaGRfNDAwMC5zdHJlYW18ZnB0fDE2ODc4ODMyNDJ8NDIuMTE3LjYzLjM0fDQxNGZhMzIzZDJjN2U3MzJlMjJkOThmNmY4YzM4ZGM5/fnxhd1/vtv3hd_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" tvg-id="9ed354e922c3adc3b007f81ea783b6d6",VTV4 HD
-http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1244990927?profile=pass
+https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHY0XzQwMDAuc3RyZWFtfGZwdHwxNjg3ODgzMjg4fDQyLjExNy42My4zNHw5NTQ5YTBmYzdkMTFkYzdiZjQwODMzY2IzYTYxZDc5Mg/fnxhd1/vtv4_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" tvg-id="3a8e10f3ab031628e65d95fac283199d",VTV5 HD
 http://hodam:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/2097726145?profile=pass
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png?dl=0" tvg-id="57102efa5659c3f6fb7c3515f9b49890",VTV Cần Thơ
@@ -341,5 +341,4 @@ https://stream.zeno.fm/8456uy0bcm0uv
 https://stream.zeno.fm/a2dbs2tq1p8uv
 
 #------------------------VeboTV------------------------#
-#EXTINF:-1 group-title="VeboTV"
 https://skytiming.site/VeboTV
