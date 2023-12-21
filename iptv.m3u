@@ -2,9 +2,9 @@
 
 #------------------------VTV------------------------#
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-id="e12ffaee54f59ab59f44a11d872574a3",VTV1 HD
-https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/vtv1-360p/hdntl=exp=1703267847~acl=%2f*~data=hdntl~hmac=cb68d736c3398f4de122699d93c8949223448e21959406ece9061fb6dc65ea06/chunklist.m3u8
+http://171.232.97.72:8080/sctv/s5/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv1/index.m3u8?token=2thjRw3w9HCR6MbIvZbTAA&e=1703192180
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-id="6592a9bec7b59a571f027bbc73699b6d",VTV2 HD
-https://vtv-live-push-token.akamaized.net/hls/live/2029308/vtv2/vtv2-360p/hdntl=exp=1703268108~acl=%2f*~data=hdntl~hmac=afc5f67e1c8f276db4271eec3c3fd093aa86e50bebb83a383bdbd0ccb0579320/chunklist.m3u8
+http://171.232.109.42:8080/sctv/s2/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv2/index.m3u8?token=V_J4AAwPTuEmhflxxK2bbw&e=1703192273
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-id="f1d586f11691fa622af6d232b02dc024",VTV3 HD
 https://vtv-live-push-token.akamaized.net/hls/live/2029309/vtv3/vtv3-360p/hdntl=exp=1703268132~acl=%2f*~data=hdntl~hmac=8ccc5be294403e15a0441fdf672246606cff4345111a57f94b30be0c4f0391a7/chunklist.m3u8
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" tvg-id="9ed354e922c3adc3b007f81ea783b6d6",VTV4 HD
