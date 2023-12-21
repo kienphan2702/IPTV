@@ -2,11 +2,11 @@
 
 #------------------------VTV------------------------#
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" tvg-id="e12ffaee54f59ab59f44a11d872574a3",VTV1 HD
-https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHYxaGRfNDAwMC5zdHJlYW18ZnB0fDE2ODc4ODMwNDh8NDIuMTE3LjYzLjM0fGY3OTE0ZmZlY2Q4OWQ2MjMxOTQ2YzViNmExNWNkN2Qy/fnxhd1/vtv1hd_4000.stream/chunklist.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/vtv1-360p/hdntl=exp=1703267847~acl=%2f*~data=hdntl~hmac=cb68d736c3398f4de122699d93c8949223448e21959406ece9061fb6dc65ea06/chunklist.m3u8
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" tvg-id="6592a9bec7b59a571f027bbc73699b6d",VTV2 HD
-https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHYyXzQwMDAuc3RyZWFtfGZwdHwxNjg3ODgzMTA5fDQyLjExNy42My4zNHwyMjdiOTg4ZjA1OTNmNGQ4NThmYzY1MzU3ZWIzOWNiYw/fnxhd1/vtv2_4000.stream/chunklist.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029308/vtv2/vtv2-360p/hdntl=exp=1703268108~acl=%2f*~data=hdntl~hmac=afc5f67e1c8f276db4271eec3c3fd093aa86e50bebb83a383bdbd0ccb0579320/chunklist.m3u8
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" tvg-id="f1d586f11691fa622af6d232b02dc024",VTV3 HD
-https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHYzaGRfNDAwMC5zdHJlYW18ZnB0fDE2ODc4ODMyNDJ8NDIuMTE3LjYzLjM0fDQxNGZhMzIzZDJjN2U3MzJlMjJkOThmNmY4YzM4ZGM5/fnxhd1/vtv3hd_4000.stream/chunklist.m3u8
+https://vtv-live-push-token.akamaized.net/hls/live/2029309/vtv3/vtv3-360p/hdntl=exp=1703268132~acl=%2f*~data=hdntl~hmac=8ccc5be294403e15a0441fdf672246606cff4345111a57f94b30be0c4f0391a7/chunklist.m3u8
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" tvg-id="9ed354e922c3adc3b007f81ea783b6d6",VTV4 HD
 https://vips-livecdn.fptplay.net/MjY1OTcwOHx2dHY0XzQwMDAuc3RyZWFtfGZwdHwxNjg3ODgzMjg4fDQyLjExNy42My4zNHw5NTQ5YTBmYzdkMTFkYzdiZjQwODMzY2IzYTYxZDc5Mg/fnxhd1/vtv4_4000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Xem TV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" tvg-id="3a8e10f3ab031628e65d95fac283199d",VTV5 HD
